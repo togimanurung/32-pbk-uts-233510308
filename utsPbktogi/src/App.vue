@@ -61,7 +61,7 @@ const technologies = ref([
   {
     name: '5G',
     completed: false,
-    description: 'Jaringan generasi kelima untuk koneksi lebih cepat.',
+    description: 'Jaringan generasi kelima untuk koneksi lebih cepat dari generasi-generasi sebelumnya.',
     learning: 'Pelajari teknologi jaringan seluler dan dampaknya pada IoT.'
   },
   {
